@@ -69,7 +69,7 @@ nav li a:hover {
 	width: 150px;
 	-webkit-border-radius: 150px;
 	border-radius: 150px;
-	margin-top: 30px;
+	margin-top: 50px;
 	border: 2.5px solid #DDE6ED;
 }
 
@@ -141,8 +141,8 @@ h4 {
 }
 
 
-
 /* Social --------------------------------------- */
+
 .footer {
 	width: 100%;
 	text-align: center;
@@ -178,7 +178,6 @@ h5 {
 #social img {
 	width: 55%;
 }
-
 
 
 /* Media Queries --------------------------------- */
